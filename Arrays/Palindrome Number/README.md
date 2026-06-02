@@ -1,0 +1,1 @@
+converted number to string and matched with reversed string using ::-1
